@@ -1,3 +1,5 @@
+# Archived: My website is no longer running this version of the API and wont be running it for the forseable future
+
 # cameron-media-cli
 A command line interface for my website's API
 
